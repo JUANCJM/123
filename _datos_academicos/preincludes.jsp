@@ -1,0 +1,1 @@
+<%request.setAttribute("accept_files","accept='.pdf'");%>
